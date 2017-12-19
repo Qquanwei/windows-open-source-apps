@@ -6,4 +6,9 @@
 
 本项目会将开源做为首要收录依据。
 
-## 工具类
+## 压缩软件
+
+### 7z [http://www.7-zip.org/](http://www.7-zip.org/)
+
+支持压缩与解压: 7z, XZ, BZIP2, GZIP, TAR, ZIP and WIM
+仅解压: AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VMDK, WIM, XAR and Z.
