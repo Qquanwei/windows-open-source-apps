@@ -22,3 +22,24 @@
 ### Vim [http://www.vim.org/](http://www.vim.org/)
 
 强大的文本编辑器
+
+### vscode [https://github.com/Microsoft/vscode](https://github.com/Microsoft/vscode)
+
+微软家的编辑器
+
+
+## 效率
+
+### Tickeys [http://www.yingdev.com/projects/tickeys](http://www.yingdev.com/projects/tickeys)
+
+全局键盘音效，找对打字的感觉
+
+### sharpkeys [https://github.com/randyrants/sharpkeys](https://github.com/randyrants/sharpkeys)
+
+键盘键位映射工具。 `CapsLock -> Ctrl`
+
+## 分析与监控
+
+### wireshark [https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)
+
+强大的网络抓包，流量分析工具
