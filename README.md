@@ -38,6 +38,10 @@
 
 键盘键位映射工具。 `CapsLock -> Ctrl`
 
+### ScreenToGif [https://github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+
+屏幕录制，截图. 支持导出成png,gif,avi
+
 ## 分析与监控
 
 ### wireshark [https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)
