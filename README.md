@@ -52,6 +52,11 @@
 
 进程监控工具，用于替代自带的任务管理器，提供更加强大的 network/io/cpu/gpu/磁盘 监控能力. 可以固定在桌面上监控程序活动.
 
+### little-registry-cleaner [https://www.little-apps.com/little-registry-cleaner/](https://www.little-apps.com/little-registry-cleaner/)
+
+注册表清理软件，帮你找到无效的文件关联，恶意启动项. 一键清理。
+
+
 ## 网络代理(土墙)
 
 ### shadowsocks [https://github.com/shadowsocks/shadowsocks/tree/master](https://github.com/shadowsocks/shadowsocks/tree/master)
