@@ -42,6 +42,10 @@
 
 屏幕录制，截图. 支持导出成png,gif,avi
 
+### nomacs [https://github.com/nomacs/nomacs](https://github.com/nomacs/nomacs)
+
+强大的图片查看器.  支持 jpg,png,tif,bmp,ppm,xbm,xpm,jpeg2000,webp,gif,ico,pbm,pgm,nef,crw,cr2,arw,mrw,rw2,dng,mpo,jps,pns,psd,psb,tga格式的预览和部分格式的编辑功能。
+
 ## 分析与监控
 
 ### wireshark [https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)
