@@ -50,6 +50,12 @@
 
 PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
+## 安全与加密
+
+### gpg4win [https://www.gpg4win.org/](https://www.gpg4win.org/)
+
+使用gnupgp进行消息加密. 提供了密钥对生成，公钥注册到中心服务器，加密，解密，指纹生成等功能。 可用于私人邮件,文件等重要消息保护。采用混合加密算法。
+
 ## 分析与监控
 
 ### wireshark [https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)
