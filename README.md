@@ -50,6 +50,12 @@
 
 PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
+## 播放器
+
+### mpv [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
+
+强大的跨平台视频播放器
+
 ## 安全与加密
 
 ### gpg4win [https://www.gpg4win.org/](https://www.gpg4win.org/)
