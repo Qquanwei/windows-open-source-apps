@@ -27,6 +27,10 @@
 
 微软家的编辑器
 
+### notepad++ [https://github.com/notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+
+notepad++ 备受好评的轻量级文本编辑器
+
 
 ## 效率
 
