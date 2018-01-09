@@ -13,6 +13,12 @@
 * 支持压缩与解压: 7z, XZ, BZIP2, GZIP, TAR, ZIP and WIM
 * 仅解压: AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VMDK, WIM, XAR and Z.
 
+## 输入法
+
+### RIME [http://rime.im/](http://rime.im/)
+
+聪明的输入法
+
 ## 编辑器
 
 ### Emacs [https://www.gnu.org/software/emacs/](https://www.gnu.org/software/emacs/)
