@@ -40,6 +40,12 @@ notepad++ 备受好评的轻量级文本编辑器
 
 ## 效率
 
+### cmder [https://github.com/cmderdev/cmder](https://github.com/cmderdev/cmder)
+
+非常好用的终端软件, 如linux般顺滑的体验.
+
+Windows 'cmd.exe' shell enhanced with Git, Git aware prompt, Clink(GNU Readline), and Aliases.
+
 ### Tickeys [http://www.yingdev.com/projects/tickeys](http://www.yingdev.com/projects/tickeys)
 
 全局键盘音效，找对打字的感觉
