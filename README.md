@@ -71,6 +71,10 @@ Windows 'cmd.exe' shell enhanced with Git, Git aware prompt, Clink(GNU Readline)
 
 PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
+### SwitchHosts [https://oldj.github.io/SwitchHosts/](https://oldj.github.io/SwitchHosts/)
+
+方便切换管理Host文件的程序.
+
 ## 播放器
 
 ### mpv [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
