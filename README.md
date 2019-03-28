@@ -77,7 +77,7 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
 方便切换管理Host文件的程序.
 
-### Obs Studio [https://obsproject.com/](https://obsproject.com/)
+### OBS Studio [https://obsproject.com/](https://obsproject.com/)
 
 屏幕录制，直播推流软件。
 
