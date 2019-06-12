@@ -47,6 +47,10 @@ notepad++ 备受好评的轻量级文本编辑器
 
 ## 效率
 
+### ThunderBird [https://www.thunderbird.net/en-US/get-involved/](https://www.thunderbird.net/en-US/get-involved/)
+
+开源的邮件客户端, 配置简单，可扩展性强. 可用来收发邮件，订阅RSS.
+
 ### cmder [https://github.com/cmderdev/cmder](https://github.com/cmderdev/cmder)
 
 非常好用的终端软件, 如linux般顺滑的体验.
