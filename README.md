@@ -85,6 +85,10 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
 屏幕录制，直播推流软件。
 
+### GIMP [https://github.com/GNOME/gimp](https://github.com/GNOME/gimp)
+
+跨平台的图片编辑软件
+
 ## 播放器
 
 ### mpv [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
