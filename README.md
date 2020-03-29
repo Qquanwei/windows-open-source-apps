@@ -93,6 +93,8 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
 ### mpv [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
 
+### vlc media player [https://www.videolan.org/index.zh.html](https://www.videolan.org/index.zh.html)
+
 强大的跨平台视频播放器
 
 ## 安全与加密
