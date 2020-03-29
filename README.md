@@ -93,6 +93,8 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
 ### mpv [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
 
+### vlc media player [https://www.videolan.org/index.zh.html](https://www.videolan.org/index.zh.html)
+
 强大的跨平台视频播放器
 
 ## 安全与加密
@@ -100,6 +102,8 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 ### gpg4win [https://www.gpg4win.org/](https://www.gpg4win.org/)
 
 使用gnupgp进行消息加密. 提供了密钥对生成，公钥注册到中心服务器，加密，解密，指纹生成等功能。 可用于私人邮件,文件等重要消息保护。采用混合加密算法。
+
+### VeraCrypt [https://www.veracrypt.fr/en/Home.html](https://www.veracrypt.fr/en/Home.html)
 
 ## 分析与监控
 
