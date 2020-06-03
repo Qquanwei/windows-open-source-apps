@@ -47,6 +47,10 @@ notepad++ 备受好评的轻量级文本编辑器
 
 ## 效率
 
+### PowerToys [https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
+Microsoft 推出的工具集，推荐，比较方便的是提供了键盘映射，原生快捷键映射，PowerToys Run, 批量重命名 等。使用体验很不错。
+
 ### ThunderBird [https://www.thunderbird.net/en-US/get-involved/](https://www.thunderbird.net/en-US/get-involved/)
 
 开源的邮件客户端, 配置简单，可扩展性强. 可用来收发邮件，订阅RSS.
