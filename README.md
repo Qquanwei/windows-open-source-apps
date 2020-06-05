@@ -47,6 +47,10 @@ notepad++ 备受好评的轻量级文本编辑器
 
 ## 效率
 
+### TrafficMonitor [https://github.com/zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+
+一个流量/CPU/MEM监控桌面控件
+
 ### PowerToys [https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
 Microsoft 推出的工具集，推荐，比较方便的是提供了键盘映射，原生快捷键映射，PowerToys Run, 批量重命名 等。使用体验很不错。
