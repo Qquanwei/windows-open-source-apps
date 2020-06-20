@@ -47,6 +47,10 @@ notepad++ 备受好评的轻量级文本编辑器
 
 ## 效率
 
+### Microsoft Terminal [https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)
+
+目前windows下最好用的纯终端软件，没有之一
+
 ### TrafficMonitor [https://github.com/zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
 一个流量/CPU/MEM监控桌面控件
@@ -61,7 +65,7 @@ Microsoft 推出的工具集，推荐，比较方便的是提供了键盘映射�
 
 ### cmder [https://github.com/cmderdev/cmder](https://github.com/cmderdev/cmder)
 
-非常好用的终端软件, 如linux般顺滑的体验.
+非常好用的终端软件, 如linux般顺滑的体验. (目前不推荐了，使用体验不如Microsoft Terminal)
 
 Windows 'cmd.exe' shell enhanced with Git, Git aware prompt, Clink(GNU Readline), and Aliases.
 
