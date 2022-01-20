@@ -134,6 +134,10 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
 ## 网络代理(土墙)
 
+### Simple DNSCrypt [https://github.com/bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt)
+
+解决dns污染，支持 doh 加密。
+
 ### shadowsocks [https://github.com/shadowsocks/shadowsocks/tree/master](https://github.com/shadowsocks/shadowsocks/tree/master)
 
 socks5代理工具.
