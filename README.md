@@ -132,7 +132,7 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 注册表清理软件，帮你找到无效的文件关联，恶意启动项. 一键清理。
 
 
-## 网络代理(土墙)
+## 网络工具
 
 ### Simple DNSCrypt [https://github.com/bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt)
 
