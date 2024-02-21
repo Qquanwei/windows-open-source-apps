@@ -145,3 +145,7 @@ socks5代理工具.
 ### openvpn [https://openvpn.net/index.php/open-source/downloads.html](https://openvpn.net/index.php/open-source/downloads.html)
 
 开源的vpn client
+
+## v2ray [https://github.com/2dust/v2rayN](https://github.com/2dust/v2rayN)
+
+v2ray 代理工具，支持多种协议
