@@ -8,6 +8,18 @@
 
 本项目会将开源做为首要收录依据。
 
+## 图片/视频 后期
+
+### darktable [https://github.com/darktable-org/darktable]
+
+RAW 图片后期处理，界面布局接近 lightroom，但操作方法有自己独特的工作流，需要一定的上手成本，值得一提的是 darktable 提供了相对丰富的文档 https://darktable-org.github.io/dtdocs/en/ ，对了解后期处理思路和学习软件本身都有帮助。
+
+### RawTherapee [https://github.com/RawTherapee/RawTherapee/]
+
+> RawTherapee 专为处理各种数码相机的原始文件以及HDR DNG文件和非原始图像格式（JPEG、TIFF和PNG）而设计。目标受众包括希望加深对数字成像工作原理理解的新手爱好者和半专业摄影师。色彩科学知识不是强制性的，但建议您热衷于学习并准备好阅读我们的文档（RawPedia），并在其他地方查找超出 RawPedia 范围的基本概念，例如色彩平衡。
+
+> 专业人士也可以使用 RawTherapee，享受完全的自由，但可能会缺少一些外围功能，如数字资产管理、打印、上传等。RawTherapee 的目标不是成为一个包罗万象的一体化程序，开源社区现在已经足够发展，可以在其他专业软件中提供所有这些外围功能。
+
 ## 压缩软件
 
 ### 7z [http://www.7-zip.org/](http://www.7-zip.org/)
