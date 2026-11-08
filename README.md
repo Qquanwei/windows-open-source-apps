@@ -113,6 +113,10 @@ PDF阅读器. 支持格式(PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu)
 
 跨平台的图片编辑软件
 
+### LatchLayout [https://github.com/stanczykwyatt/latchlayout](https://github.com/stanczykwyatt/latchlayout)
+
+MIT 许可的 Windows 11 工作区启动工具：长按自定义按键或鼠标按钮，打开应用、浏览器配置文件及网址，并按指定显示器和窗口布局排列（预览版）。
+
 ## 播放器
 
 ### mpv [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
